@@ -30,5 +30,3 @@ Har dock inte kollat alltför noga om det egentligen beror på en bugg i `Fixtur
 - Det här med att skicka generiska funktioner som argument till andra funktioner (typ `fold`, `map` etc.) har aldrig funkat på något vettigt sätt
 
 - Ev. ta bort möjligheten till typ `|x| x toString()` eftersom de alltid läcker.
-
-- Instead of TVectorList, simply extend VectorList<T> https://github.com/magic-lang/ooc-kean/issues/1208
