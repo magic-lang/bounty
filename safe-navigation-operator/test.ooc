@@ -18,3 +18,7 @@ thirdDerivativeC = somePolynomial $ derivativeFunc() $ derivativeFunc() $ deriva
 raise(thirdDerivativeA == null, "thirdDerivativeA is null")
 raise(thirdDerivativeB power != 5, "thirdDerivativeB power is not 5")
 raise(thirdDerivativeC power != 5, "thirdDerivativeC power is not 5")
+
+// This should not crash
+thirdDerivativeD := Polynomial new(2) $ derivativeFunc() $ derivativeFunc() $ derivativeFunc() $ derivativeFunc() 
+raise(thirdDerivativeD power != 0, "thirdDerivativeD power is not 0")

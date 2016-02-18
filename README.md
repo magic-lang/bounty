@@ -19,9 +19,6 @@ A solution is accepted if:
 
 When a solution is accepted you will be contacted to receive your reward.
 
-## List of problems
-**TODO** quick summary
-
 ## How to get started (and learn ooc)
 
 ### To get started with ooc:
@@ -55,7 +52,7 @@ You're good to go! You can start learning the language by browsing the code and 
 Yes, it's that easy. Whenever you make changes, it is a good idea to run `make clean` before `make rescue`.
 
 ### To solve problems:
-1) Find a problem which interests you.
+1) Find a problem which interests you among the folders in the [bounty repo](https://github.com/magic-lang/bounty) (this repo).
 
 2) Solve it.
 
