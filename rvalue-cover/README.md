@@ -3,9 +3,23 @@
 *Properties or operators that return covers must be stored in an intermediary variable*
 
 ## Description
-...
+Properties or operators that return covers must be stored in an intermediary variable before being assigned to something. An example:
 
-https://github.com/fasterthanlime/rock/issues/940
+```ooc
+// myAttribute in MyCover is calculated using a property
+
+// Not working
+result = myCovers[i] myAttribute
+
+// Working
+myCover := myCovers[i] // Convert rvalue to lvalue
+result = myCover myAttribute
+```
+
+The attached test files show some examples using both an `ArrayList` and `Array`.
+
+## Relevant links
+This has been discussed in the following issue: https://github.com/fasterthanlime/rock/issues/940
 
 ## Details
 **Reward type:** Medium (XXX USD)
