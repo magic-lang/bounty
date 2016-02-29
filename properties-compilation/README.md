@@ -11,11 +11,11 @@ To solve this problem, either
 2) Find the cause of the slow compilation and reduce the pathologically slow cases.
 
 ## Details
-**Reward type:** Low (XXX USD)
+**Reward type:** Low (200 EUR)
 
 **Deadline:** 2016-04-30
 
-**Contact information**: Abcdef Ghijkl (abcdef.ghijkl@mnopqrs.tu)
+**Contact information**: Fredrik Bryntesson, [fredrik.bryntesson@vidhance.com](mailto:fredrik.bryntesson@vidhance.com)
 
 ---
 

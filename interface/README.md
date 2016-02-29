@@ -8,11 +8,11 @@ Like Java, there is no multiple inheritance. To get around this, one may declare
 We would like interfaces, generic and non-generic, to work well with classes and covers of all kinds.
 
 ## Details
-**Reward type:** Medium (XXX USD)
+**Reward type:** Medium (400 EUR)
 
 **Deadline:** 2016-04-30
 
-**Contact information**: Abcdef Ghijkl (abcdef.ghijkl@mnopqrs.tu)
+**Contact information**: Fredrik Bryntesson, [fredrik.bryntesson@vidhance.com](mailto:fredrik.bryntesson@vidhance.com)
 
 ---
 

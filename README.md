@@ -6,24 +6,28 @@ This is a bounty program which inspires interested programmers to solve bugs in 
 ## The history of ooc and the magic fork
 The ooc language was first released in 2009 and is a general-purpose high-level language which compiles to C code. Its compiler is called `rock`.
 
-In mid-2014 a fork was made of both the SDK, which is now greatly rewritten and extended, and the compiler. The latter has undergone some changes. Most notably, this fork does not use any garbage collection and introduces the `virtual` and `override` keywords.
+In mid-2014 a fork was made of both the SDK, which is now greatly rewritten and extended, and the compiler. The latter has undergone some changes. Most notably, this fork does not use any garbage collection and introduces the `virtual` and `override` keywords. To distinguish it from upstream ooc it is sometimes called `magic` or `magic-lang`, but it is really `ooc` with minor changes.
 
 ## Rules and practices
 All the code submitted through this process will be made available under the MIT license just as the rock compiler is.
 
 A solution is accepted if:
+
 1) It solves all the problems presented in its description
+
 2) It accurately compiles and runs the accompanied test files without crashes or memory leaks
-3) An inspection by us do not find any bugs
+
+3) An inspection by us does not find any bugs
+
 4) The changes can be merged into the rock repo without any conflicts or introducing new problems
 
-When a solution is accepted you will be contacted to receive your reward.
+When a solution is accepted you will be contacted to receive your reward. This sum is specified in each problem's respective description. Any taxes or fees are paid for by the recipient.
 
-## How to get started (and learn ooc)
+## How to get started
 
-### To get started with ooc:
+### ...with ooc:
 
-0) Make sure you have Ubuntu (14.04 or later), `gcc` and `git` installed.
+0) Make sure you have Ubuntu (14.04 or later), with `gcc` and `git` installed (`sudo apt-get install gcc git`).
 
 1) Run the script you find at the [magic-tools repo](https://github.com/magic-lang/magic-tools). This will install an editor (VS Code) with proper syntax highlighting, the latest rock compiler, and some other useful tools.
 
@@ -39,7 +43,7 @@ When a solution is accepted you will be contacted to receive your reward.
 
 You're good to go! You can start learning the language by browsing the code and reading the original (though slightly outdated) language documentation: https://ooc-lang.org/docs/lang/
 
-### To get started working on the compiler:
+### ...working on the compiler:
 
 1) Clone the [rock fork repo](https://github.com/magic-lang/rock).
 
@@ -51,26 +55,28 @@ You're good to go! You can start learning the language by browsing the code and 
 
 Yes, it's that easy. Whenever you make changes, it is a good idea to run `make clean` before `make rescue`.
 
-### To solve problems:
+The beginnings of a rock documentation (updated almost daily) is available at the [rock-dev repo](https://github.com/shamanas/rock-dev). It includes a lot more detail on how to build rock, as well as information on its code structure and where different parts are located. 
+
+### ...solving bounty problems:
 1) Find a problem which interests you among the folders in the [bounty repo](https://github.com/magic-lang/bounty) (this repo).
 
-2) Solve it.
+2) Not mandatory, but recommended: Contact us (see below) with a short message describing who you are, what problem(s) you want to tackle, and any questions you may have. We are happy to help guide you through the process. We can offer some help on ooc questions, but little to no help on rock-specific questions.
+ 
+3) Solve the problem.
 
-3) Make a pull request to our [rock repo](https://github.com/magic-lang/rock) with the solution. Your pull request's description should contain a brief summary of what has been done, how it works and how the solution was found. This makes it easier for others to review and learn about rock.
+4) Make a pull request to our [rock repo](https://github.com/magic-lang/rock) with the solution. Your pull request's description should contain a brief summary of what has been done, how it works and how the solution was found. This makes it easier for others to review and learn about rock. If you are unfamiliar with `git` or `GitHub`, contact us and we will help you.
 
-4) Wait for us to accept it, or revise according to our comments.
+5) Wait for us to review it (within a few work days)
 
-5) Collect money.
+6) Your pull request is either accepted or commented with questions or bugs we have found. Revise them and go to step 5.
+
+7) Collect money.
 
 ## Contact info
-This bounty program, as well as the ooc and rock forks, are managed by XXX.
-
 For more information, please contact:
 
-**ABCDEF GHIJKL**
+**Fredrik Bryntesson**
 
-abcdef.ghijkl@mnopqrs.tu
+[fredrik.bryntesson@vidhance.com](mailto:fredrik.bryntesson@vidhance.com)
 
-www.abcdef.gh
-
-Abc, Defland
+Uppsala, Sweden

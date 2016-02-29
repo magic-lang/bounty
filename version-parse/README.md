@@ -8,11 +8,11 @@ Although `if (!a && !b)` is parsed correctly and means the same as `if (!b && !a
 To solve this problem, logic propositions using `&&`, `||`, and `!` operators shall be logically correct in all cases.
 
 ## Details
-**Reward type:** Low (XXX USD)
+**Reward type:** Low (200 EUR)
 
 **Deadline:** 2016-04-30
 
-**Contact information**: Abcdef Ghijkl (abcdef.ghijkl@mnopqrs.tu)
+**Contact information**: Fredrik Bryntesson, [fredrik.bryntesson@vidhance.com](mailto:fredrik.bryntesson@vidhance.com)
 
 ---
 

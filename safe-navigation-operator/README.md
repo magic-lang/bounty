@@ -27,11 +27,11 @@ The given error message is `'source_Main__Polynomial' has no member named 'deriv
 The safe navigation operator should work with both members, methods, and properties, in both classes and covers.
 
 ## Details
-**Reward type:** Medium (XXX USD)
+**Reward type:** Low (200 EUR)
 
 **Deadline:** 2016-04-30
 
-**Contact information**: Abcdef Ghijkl (abcdef.ghijkl@mnopqrs.tu)
+**Contact information**: Fredrik Bryntesson, [fredrik.bryntesson@vidhance.com](mailto:fredrik.bryntesson@vidhance.com)
 
 ---
 
