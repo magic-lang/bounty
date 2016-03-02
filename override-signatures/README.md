@@ -27,11 +27,11 @@ To solve this problem, the number (and type) of arguments should always have to 
 This same code was reported as an issue to the original rock repo in February 2016: https://github.com/ooc-lang/rock/issues/974
 
 ## Details
-**Reward type:** High (XXX USD)
+**Reward type:** High (600 EUR)
 
 **Deadline:** 2016-04-30
 
-**Contact information**: Abcdef Ghijkl (abcdef.ghijkl@mnopqrs.tu)
+**Contact information**: Fredrik Bryntesson, [fredrik.bryntesson@vidhance.com](mailto:fredrik.bryntesson@vidhance.com)
 
 ---
 

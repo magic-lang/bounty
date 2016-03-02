@@ -31,11 +31,11 @@ To solve this problem, the above statements should be equal, and should also wor
 ```
 
 ## Details
-**Reward type:** Medium (XXX USD)
+**Reward type:** Medium (400 EUR)
 
 **Deadline:** 2016-04-30
 
-**Contact information**: Abcdef Ghijkl (abcdef.ghijkl@mnopqrs.tu)
+**Contact information**: Fredrik Bryntesson, [fredrik.bryntesson@vidhance.com](mailto:fredrik.bryntesson@vidhance.com)
 
 ---
 

@@ -12,11 +12,11 @@ This fails with the error `No such function new() for ArrayClass`.
 To solve this problem, generic classes, even those derived from a generic super class, should be able to be the type of an ooc array, both when `T` is a class and when it is a cover.
 
 ## Details
-**Reward type:** Medium (XXX USD)
+**Reward type:** Medium (400 EUR)
 
 **Deadline:** 2016-04-30
 
-**Contact information**: Abcdef Ghijkl (abcdef.ghijkl@mnopqrs.tu)
+**Contact information**: Fredrik Bryntesson, [fredrik.bryntesson@vidhance.com](mailto:fredrik.bryntesson@vidhance.com)
 
 ---
 

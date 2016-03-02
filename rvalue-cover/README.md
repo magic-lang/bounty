@@ -22,11 +22,11 @@ The attached test files show some examples using both an `ArrayList` and `Array`
 This has been discussed in the following issue: https://github.com/fasterthanlime/rock/issues/940
 
 ## Details
-**Reward type:** Medium (XXX USD)
+**Reward type:** Medium (400 EUR)
 
 **Deadline:** 2016-04-30
 
-**Contact information**: Abcdef Ghijkl (abcdef.ghijkl@mnopqrs.tu)
+**Contact information**: Fredrik Bryntesson, [fredrik.bryntesson@vidhance.com](mailto:fredrik.bryntesson@vidhance.com)
 
 ---
 

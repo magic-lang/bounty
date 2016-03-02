@@ -27,11 +27,11 @@ Work on this project started here, but was never finished: https://github.com/fa
 A deeper discussion on this topic is available in the original issue: https://github.com/ooc-lang/rock/issues/830
 
 ## Details
-**Reward type:** Medium (XXX USD)
+**Reward type:** Medium (400 EUR)
 
 **Deadline:** 2016-04-30
 
-**Contact information**: Abcdef Ghijkl (abcdef.ghijkl@mnopqrs.tu)
+**Contact information**: Fredrik Bryntesson, [fredrik.bryntesson@vidhance.com](mailto:fredrik.bryntesson@vidhance.com)
 
 ---
 
