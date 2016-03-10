@@ -1,4 +1,10 @@
-# Function signatures in derived or super classes need not match
+# Completed
+
+Completed in https://github.com/magic-lang/rock/pull/37
+
+
+
+## Function signatures in derived or super classes need not match
 **Last updated: 2016-02-17**
 *It is, for example, possible to call a super constructor which does not exist.*
 
