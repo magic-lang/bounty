@@ -1,3 +1,6 @@
+# Completed
+Completed in https://github.com/magic-lang/rock/pull/40
+
 # An improved syntax for methods on tuples
 **Last updated: 2016-02-17**
 *Although tuples can be created and returned easily, one must still call methods on each element separately.*
