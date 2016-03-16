@@ -23,4 +23,4 @@ raise(thirdDerivativeC power != 5, "thirdDerivativeC power is not 5")
 
 // This should not crash
 thirdDerivativeD := Polynomial new(2) $ derivativeFunc() $ derivativeFunc() $ derivativeFunc() $ derivativeFunc()
-raise(thirdDerivativeD power != 0, "thirdDerivativeD power is not 0")
+raise(thirdDerivativeD != null, "thirdDerivativeD power is not null")
