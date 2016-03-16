@@ -1,3 +1,6 @@
+# Completed
+Completed in https://github.com/magic-lang/nagaqueen/pull/1
+
 # Correct parsing of version flags
 **Last updated: 2016-02-17**
 *The `!` operator has too high precedence in version statements.*
