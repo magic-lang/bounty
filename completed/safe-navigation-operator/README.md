@@ -1,3 +1,6 @@
+# Completed
+Completed in https://github.com/magic-lang/rock/pull/47
+
 # Using the safe navigation operator with properties
 **Last updated: 2016-02-17**
 *Using the safe navigation operator only works with class members, not properties.*
