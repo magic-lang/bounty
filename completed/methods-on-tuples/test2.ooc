@@ -1,6 +1,5 @@
 Polynomial: class {
 	power: Int
-	derivativeMember: Polynomial new(0)
 	derivativeProperty ::= This new(this power - 1)
 	derivativeFunc: func -> Polynomial { this power > 0 ? This new(this power - 1) : null }
 	increasePower: func { this power += 1 }
