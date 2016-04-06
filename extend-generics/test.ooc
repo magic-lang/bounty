@@ -12,22 +12,22 @@ extend ExampleClass<T> {
 		}
 		result
 	}
-	typeName: func -> String { T name toString() }
+	typeName: func -> String { T name }
 }
 
 myClass := ExampleClass<Int> new(42)
 myName := myClass typeName()
 myInt := myClass someMethod()
-raise(typeName != "Int", "typeName is not Int but %s" format(myName))
+raise(myName != "Int", "typeName is not Int but %s" format(myName))
 raise(myInt != 42, "someMethod did not return 42 but %d" format(myInt))
 
 myClass free()
 myName free()
 
-myClass = ExampleClass<String> new(null)
+myClass = ExampleClass<String> new("foobar")
 myName = myClass typeName()
 myInt = myClass someMethod()
-raise(typeName != "String", "typeName is not String but %s" format(myName))
+raise(myName != "String", "typeName is not String but %s" format(myName))
 raise(myInt != 1337, "someMethod did not return 1337 but %d" format(myInt))
 
 myClass free()
@@ -36,7 +36,7 @@ myName free()
 myClass = ExampleClass<Bool> new(true)
 myName = myClass typeName()
 myInt = myClass someMethod()
-raise(typeName != "Bool", "typeName is not Bool but %s" format(myName))
+raise(myName != "Bool", "typeName is not Bool but %s" format(myName))
 raise(myInt != 0, "someMethod did not return 0 but %d" format(myInt))
 
 myClass free()
