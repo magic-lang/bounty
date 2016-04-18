@@ -1,3 +1,6 @@
+# Completed
+Completed in https://github.com/magic-lang/rock/pull/44
+
 # Extending generic classes
 **Last updated: 2016-02-17**
 *It is currently only possible to extend a generic class for a specific type, not for any type*
