@@ -1,3 +1,6 @@
+# Completed
+Completed in https://github.com/magic-lang/rock/pull/41
+
 # Creating arrays of generic classes
 **Last updated: 2016-02-17**
 *When using a class using generics, it is impossible to create an array of them*
