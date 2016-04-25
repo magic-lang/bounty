@@ -13,7 +13,7 @@ To solve this problem, either
 ## Details
 **Reward type:** Low (200 EUR)
 
-**Deadline:** 2016-04-30
+**Deadline:** 2016-06-30
 
 **Contact information**: Fredrik Bryntesson, [fredrik.bryntesson@vidhance.com](mailto:fredrik.bryntesson@vidhance.com)
 

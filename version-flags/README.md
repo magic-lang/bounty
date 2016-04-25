@@ -49,7 +49,7 @@ In short, version blocks as they appear in normal `ooc`-files should work the sa
 ## Details
 **Reward type:** Medium (400 EUR). This bounty consists of two parts worth 200 EUR each.
 
-**Deadline:** 2016-04-30
+**Deadline:** 2016-06-30
 
 **Contact information**: Fredrik Bryntesson, [fredrik.bryntesson@vidhance.com](mailto:fredrik.bryntesson@vidhance.com)
 

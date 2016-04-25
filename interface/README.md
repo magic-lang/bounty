@@ -10,7 +10,7 @@ We would like interfaces, generic and non-generic, to work well with classes and
 ## Details
 **Reward type:** Medium (400 EUR)
 
-**Deadline:** 2016-04-30
+**Deadline:** 2016-06-30
 
 **Contact information**: Fredrik Bryntesson, [fredrik.bryntesson@vidhance.com](mailto:fredrik.bryntesson@vidhance.com)
 
