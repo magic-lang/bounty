@@ -1,3 +1,6 @@
+# Completed
+Completed in https://github.com/magic-lang/rock/pull/45
+
 # Assigning value with covers and properties does not always work
 **Last updated: 2016-02-17**
 *Properties or operators that return covers must be stored in an intermediary variable*
